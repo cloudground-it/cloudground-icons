@@ -26,7 +26,7 @@ Each icon is a standalone SVG in [`icons/`](icons). It draws in `currentColor`, 
 To style it with CSS, inline it instead:
 
 ```html
-<span style="color: #2F5BFF">
+<span style="color: #2549E0">
   <!-- contents of icons/backup.svg -->
 </span>
 ```
